@@ -21,7 +21,7 @@ Unlike generic tools that fail on Vimeo's streaming format, this extension auto-
 
 ## 🔗 Links
 
-- 🎁 Get it [**here**](https://serp.ly/vimeo-video-downloader)
+- 🎁 Get it [**here**](https://serp.ly/vimeo-video-downloader?via=github)
 - ❓ Check FAQs [**here**](https://github.com/orgs/serpapps/discussions/categories/faq)
 - 🐛 Report bugs [**here**](https://github.com/serpapps/vimeo-video-downloader/issues)
 - 🆕 Request features [**here**](https://github.com/serpapps/vimeo-video-downloader/issues)
@@ -31,10 +31,10 @@ Unlike generic tools that fail on Vimeo's streaming format, this extension auto-
 
 ## Resources
 
-- 💬 [**Community**](https://serp.ly/@serp/community)
-- 💌 [**Newsletter**](https://serp.ly/@serp/email)
-- 🛒 [**Shop**](https://serp.ly/@serp/store)
-- 🎓 [**Courses**](https://serp.ly/@serp/courses)
+- 💬 [**Community**](https://serp.ly/@serp/community?via=github)
+- 💌 [**Newsletter**](https://serp.ly/@serp/email?via=github)
+- 🛒 [**Shop**](https://serp.ly/@serp/store?via=github)
+- 🎓 [**Courses**](https://serp.ly/@serp/courses?via=github)
 
 ## Why Vimeo Video Downloader
 
@@ -57,7 +57,7 @@ This extension was engineered from the ground up for Vimeo. It detects videos au
 
 ## How It Works
 
-1. **Install** — Add SERP Vimeo Video Downloader to your browser from the [product page](https://serp.ly/vimeo-video-downloader), or download the latest version from [GitHub Releases](https://github.com/serpapps/vimeo-video-downloader/releases) and load it manually
+1. **Install** — Add SERP Vimeo Video Downloader to your browser from the [product page](https://serp.ly/vimeo-video-downloader?via=github), or download the latest version from [GitHub Releases](https://github.com/serpapps/vimeo-video-downloader/releases) and load it manually
 2. **Browse Vimeo** — Navigate to any Vimeo page — public video, embedded player, showcase, channel, or private link
 3. **Pick your quality** — Click the extension icon. It shows all available resolutions from the source video with thumbnail preview
 4. **Save** — Click Download and the video saves directly to your computer in its original quality
@@ -149,9 +149,9 @@ Our commitment: We only access what we need to download your videos, nothing mor
 
 ## Trial & Pricing
 
-Purchase a license key to get started. For pricing and license details, visit the [product page](https://serp.ly/vimeo-video-downloader).
+Purchase a license key to get started. For pricing and license details, visit the [product page](https://serp.ly/vimeo-video-downloader?via=github).
 
-[![Purchase a License Key](https://img.shields.io/badge/Purchase%20a%20License%20Key-brightgreen?style=for-the-badge&logo=buymeacoffee&logoColor=white)](https://serp.ly/vimeo-video-downloader)
+[![Purchase a License Key](https://img.shields.io/badge/Purchase%20a%20License%20Key-brightgreen?style=for-the-badge&logo=buymeacoffee&logoColor=white)](https://serp.ly/vimeo-video-downloader?via=github)
 
 - Works on Chrome, Edge, Brave, Opera, and Firefox
 - All processing happens locally in your browser
@@ -225,7 +225,7 @@ This repository is distributed under the proprietary SERP Apps license in the [L
 
 ## Get It
 
-- **Start here:** [SERP Vimeo Video Downloader](https://serp.ly/vimeo-video-downloader)
+- **Start here:** [SERP Vimeo Video Downloader](https://serp.ly/vimeo-video-downloader?via=github)
 
 ---
 
